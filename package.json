@@ -1,0 +1,103 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-weibo@3.0.4",
+        "scope": null,
+        "escapedName": "react-native-weibo",
+        "name": "react-native-weibo",
+        "rawSpec": "3.0.4",
+        "spec": "3.0.4",
+        "type": "version"
+      },
+      "/Users/zhanghuan/WebstormProjects/rcshop-onreact"
+    ]
+  ],
+  "_cnpm_publish_time": 1488446776931,
+  "_from": "react-native-weibo@3.0.4",
+  "_hasShrinkwrap": false,
+  "_id": "react-native-weibo@3.0.4",
+  "_inCache": true,
+  "_location": "/react-native-weibo",
+  "_nodeVersion": "7.7.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-weibo-3.0.4.tgz_1488446776562_0.11729257972911"
+  },
+  "_npmUser": {
+    "name": "tdzl2003",
+    "email": "tdzl2003@gmail.com"
+  },
+  "_npmVersion": "4.1.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-weibo@3.0.4",
+    "scope": null,
+    "escapedName": "react-native-weibo",
+    "name": "react-native-weibo",
+    "rawSpec": "3.0.4",
+    "spec": "3.0.4",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/react-native-weibo/download/react-native-weibo-3.0.4.tgz",
+  "_shasum": "d455c51d025e9c81ab7965b25a968c0ed3abeb97",
+  "_shrinkwrap": null,
+  "_spec": "react-native-weibo@3.0.4",
+  "_where": "/Users/zhanghuan/WebstormProjects/rcshop-onreact",
+  "author": {
+    "name": "lvbingru"
+  },
+  "bugs": {
+    "url": "https://github.com/reactnativecn/react-native-weibo/issues"
+  },
+  "dependencies": {
+    "es6-promisify": "^3.0.0"
+  },
+  "description": "新浪微博登录、分享模块",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "d455c51d025e9c81ab7965b25a968c0ed3abeb97",
+    "size": 13158803,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/react-native-weibo/download/react-native-weibo-3.0.4.tgz"
+  },
+  "gitHead": "1f7069167322a442a072cb8bf8f4d45d93b3fcf7",
+  "homepage": "https://github.com/reactnativecn/react-native-weibo#readme",
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "weibo",
+    "sina",
+    "share",
+    "login"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "lvbingru",
+      "email": "lvbingru@gmail.com"
+    },
+    {
+      "name": "tdzl2003",
+      "email": "tdzl2003@gmail.com"
+    }
+  ],
+  "name": "react-native-weibo",
+  "optionalDependencies": {},
+  "publish_time": 1488446776931,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reactnativecn/react-native-weibo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "3.0.4"
+}
