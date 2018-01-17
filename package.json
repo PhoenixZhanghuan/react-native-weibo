@@ -2,19 +2,19 @@
   "_args": [
     [
       {
-        "raw": "react-native-weibo@3.0.4",
+        "raw": "react-native-weibo@^3.0.4",
         "scope": null,
         "escapedName": "react-native-weibo",
         "name": "react-native-weibo",
-        "rawSpec": "3.0.4",
-        "spec": "3.0.4",
-        "type": "version"
+        "rawSpec": "^3.0.4",
+        "spec": ">=3.0.4 <4.0.0",
+        "type": "range"
       },
-      "/Users/zhanghuan/WebstormProjects/rcshop-onreact"
+      "/Users/zhanghuan/ReactNativeProjects/rcshop-onreact"
     ]
   ],
   "_cnpm_publish_time": 1488446776931,
-  "_from": "react-native-weibo@3.0.4",
+  "_from": "react-native-weibo@>=3.0.4 <4.0.0",
   "_hasShrinkwrap": false,
   "_id": "react-native-weibo@3.0.4",
   "_inCache": true,
@@ -31,13 +31,13 @@
   "_npmVersion": "4.1.2",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "react-native-weibo@3.0.4",
+    "raw": "react-native-weibo@^3.0.4",
     "scope": null,
     "escapedName": "react-native-weibo",
     "name": "react-native-weibo",
-    "rawSpec": "3.0.4",
-    "spec": "3.0.4",
-    "type": "version"
+    "rawSpec": "^3.0.4",
+    "spec": ">=3.0.4 <4.0.0",
+    "type": "range"
   },
   "_requiredBy": [
     "/"
@@ -45,8 +45,8 @@
   "_resolved": "https://registry.npm.taobao.org/react-native-weibo/download/react-native-weibo-3.0.4.tgz",
   "_shasum": "d455c51d025e9c81ab7965b25a968c0ed3abeb97",
   "_shrinkwrap": null,
-  "_spec": "react-native-weibo@3.0.4",
-  "_where": "/Users/zhanghuan/WebstormProjects/rcshop-onreact",
+  "_spec": "react-native-weibo@^3.0.4",
+  "_where": "/Users/zhanghuan/ReactNativeProjects/rcshop-onreact",
   "author": {
     "name": "lvbingru"
   },
