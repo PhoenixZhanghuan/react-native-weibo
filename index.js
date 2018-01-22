@@ -75,8 +75,8 @@ function checkData(data) {
     }
 }
 
-const nativeSendAuthRequest = wrapApi(WeiboAPI.login);
-const nativeSendMessageRequest = wrapApi(WeiboAPI.shareToWeibo);
+const nativeSendAuthRequest = wrapApi(WeiboAPI && WeiboAPI.login);
+const nativeSendMessageRequest = wrapApi(WeiboAPI && WeiboAPI.shareToWeibo);
 
 export function login(config={}) {
     checkData(config)
