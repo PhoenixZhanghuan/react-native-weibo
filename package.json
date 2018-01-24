@@ -11,12 +11,33 @@
         "type": "range"
       },
       "/Users/zhanghuan/ReactNativeProjects/rcshop-onreact"
+    ],
+    [
+      {
+        "raw": "react-native-weibo@git+https://github.com/PhoenixZhanghuan/react-native-weibo.git",
+        "scope": null,
+        "escapedName": "react-native-weibo",
+        "name": "react-native-weibo",
+        "rawSpec": "git+https://github.com/PhoenixZhanghuan/react-native-weibo.git",
+        "spec": "git+https://github.com/PhoenixZhanghuan/react-native-weibo.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:PhoenixZhanghuan/react-native-weibo.git",
+          "sshUrl": "git+ssh://git@github.com/PhoenixZhanghuan/react-native-weibo.git",
+          "httpsUrl": "git+https://github.com/PhoenixZhanghuan/react-native-weibo.git",
+          "gitUrl": "git://github.com/PhoenixZhanghuan/react-native-weibo.git",
+          "shortcut": "github:PhoenixZhanghuan/react-native-weibo",
+          "directUrl": "https://raw.githubusercontent.com/PhoenixZhanghuan/react-native-weibo/master/package.json"
+        }
+      },
+      "/Users/zhanghuan/ReactNativeProjects/rcshop-onreact"
     ]
   ],
   "_cnpm_publish_time": 1488446776931,
-  "_from": "react-native-weibo@>=3.0.4 <4.0.0",
+  "_from": "git+https://github.com/PhoenixZhanghuan/react-native-weibo.git",
   "_hasShrinkwrap": false,
-  "_id": "react-native-weibo@3.0.4",
+  "_id": "react-native-weibo@3.0.5",
   "_inCache": true,
   "_location": "/react-native-weibo",
   "_nodeVersion": "7.7.0",
@@ -31,21 +52,30 @@
   "_npmVersion": "4.1.2",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "react-native-weibo@^3.0.4",
+    "raw": "react-native-weibo@git+https://github.com/PhoenixZhanghuan/react-native-weibo.git",
     "scope": null,
     "escapedName": "react-native-weibo",
     "name": "react-native-weibo",
-    "rawSpec": "^3.0.4",
-    "spec": ">=3.0.4 <4.0.0",
-    "type": "range"
+    "rawSpec": "git+https://github.com/PhoenixZhanghuan/react-native-weibo.git",
+    "spec": "git+https://github.com/PhoenixZhanghuan/react-native-weibo.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:PhoenixZhanghuan/react-native-weibo.git",
+      "sshUrl": "git+ssh://git@github.com/PhoenixZhanghuan/react-native-weibo.git",
+      "httpsUrl": "git+https://github.com/PhoenixZhanghuan/react-native-weibo.git",
+      "gitUrl": "git://github.com/PhoenixZhanghuan/react-native-weibo.git",
+      "shortcut": "github:PhoenixZhanghuan/react-native-weibo",
+      "directUrl": "https://raw.githubusercontent.com/PhoenixZhanghuan/react-native-weibo/master/package.json"
+    }
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npm.taobao.org/react-native-weibo/download/react-native-weibo-3.0.4.tgz",
-  "_shasum": "d455c51d025e9c81ab7965b25a968c0ed3abeb97",
+  "_resolved": "git+https://github.com/PhoenixZhanghuan/react-native-weibo.git#24204a963530b710255b444715fdd7594eea88d8",
+  "_shasum": "246cf552731498892e726fa320970fd219cfbd3e",
   "_shrinkwrap": null,
-  "_spec": "react-native-weibo@^3.0.4",
+  "_spec": "react-native-weibo@git+https://github.com/PhoenixZhanghuan/react-native-weibo.git",
   "_where": "/Users/zhanghuan/ReactNativeProjects/rcshop-onreact",
   "author": {
     "name": "lvbingru"
@@ -54,7 +84,7 @@
     "url": "https://github.com/reactnativecn/react-native-weibo/issues"
   },
   "dependencies": {
-    "es6-promisify": "^3.0.0"
+
   },
   "description": "新浪微博登录、分享模块",
   "devDependencies": {},
